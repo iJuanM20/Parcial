@@ -1,0 +1,82 @@
+.nav {
+
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 100%;
+
+}
+
+
+.aUno {
+
+    color: white;
+    margin-right: 85px;
+
+}
+
+.diva {
+
+    padding-top: 5%;
+
+}
+
+.flexcontenedor {
+
+    display: flex;
+    background-color: white;
+
+}
+
+.divDerecho {
+
+    margin-left: 35px;
+    margin-top: 45px;
+    width: 50%;
+    height: px;
+    background-color: black;
+    color: white;
+}
+
+.divCentro {
+
+    background-color: brown;
+    color: white;
+    margin-top: 45px;
+
+}
+
+.divIzquierdo {
+
+    background-color: rgb(5, 5, 129);
+    color: white;
+    margin-top: 45px;
+    margin-right: 45px;
+}
+
+
+
+.divPadre{
+
+    background-color: black;
+    margin-top: 45px;
+    color: white;
+    display: flex;
+}
+
+.divUno{
+
+    background-color: #b2175b;
+    color: white;
+    height: 50px;
+    margin-right: 45px;
+}
+
+.divDos{
+
+    background-color: #3c1b75;
+    color: white;
+    height: 50px;
+    margin-right: 45px;
+}
+
